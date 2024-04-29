@@ -1,2 +1,5 @@
-package br.com.alura.minhasmusicas.modelos;public class Avaliavel {
+package br.com.alura.minhasmusicas.modelos;
+
+public interface Avaliavel {
+    public int getClassificacao();
 }
